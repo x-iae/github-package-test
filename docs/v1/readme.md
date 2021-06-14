@@ -5,7 +5,11 @@
 ## Installation
 
 ```
-npm install @x-iae/x-one-frontend
+npm install @x-iae/x-one-frontend 
+```
+####or add dependency in to package.json
+```
+"@x-iae/x-one-frontend": "github:x-iae/github-package-test",
 ```
 
 ## Usage
@@ -13,7 +17,7 @@ npm install @x-iae/x-one-frontend
 ### Bundler (Webpack, Rollup)
 
 ```js
-
+import VueLazyLoad from '@x-iae/x-one-frontend'
 ```
 
 ### Browser

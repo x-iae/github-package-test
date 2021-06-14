@@ -1,4 +1,3 @@
-
 // Import vue component
 import component from './vue-lazy-load.vue';
 

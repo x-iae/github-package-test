@@ -1,4 +1,3 @@
-
 import { shallowMount } from '@vue/test-utils'
 import VueLazyLoad from './vue-lazy-load.vue'
 

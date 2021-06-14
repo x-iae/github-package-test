@@ -43,6 +43,7 @@
     "eslint-config-airbnb-base": "^14.1.0",
     "eslint-plugin-import": "^2.20.2",
     "eslint-plugin-vue": "^6.2.2",
+    "fse": "^4.0.1",
     "jest": "^25.3.0",
     "minimist": "^1.2.5",
     "node-fetch": "^2.6.0",
@@ -75,6 +76,5 @@
   "bugs": {
     "url": "https://github.com/x-iae/github-package-test/issues"
   },
-  "homepage": "https://github.com/x-iae/github-package-test#readme",
-  "dependencies": {}
+  "homepage": "https://github.com/x-iae/github-package-test#readme"
 }

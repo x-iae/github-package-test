@@ -1,6 +1,6 @@
 {
   "name": "@x-iae/x-one-frontend",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "To test github's package manager",
   "main": "dist/x-one-frontend.ssr.js",
   "module": "dist/x-one-frontend.esm.js",

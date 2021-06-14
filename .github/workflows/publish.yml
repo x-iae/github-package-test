@@ -1,3 +1,4 @@
+name: x-one-frontend Package
 on:
   push:
     tags: v*.*.*

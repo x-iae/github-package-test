@@ -107,6 +107,7 @@ if (!argv.format || argv.format === 'iife') {
       format: 'iife',
       name: 'x-one-frontend',
       exports: 'named',
+      extend: true,
       sourcemap: true,
     },
     plugins: [

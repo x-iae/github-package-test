@@ -16,7 +16,12 @@ jobs:
         with:
           node-version: 12
       - run: npm ci
-      - run: npm test
+
+      - name: Lint code
+        run: npm run lint
+
+      - name: Jest tests
+        run: npm test
 
   publish-gpr:
     needs: build
